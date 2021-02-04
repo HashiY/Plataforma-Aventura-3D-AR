@@ -1,0 +1,5 @@
+O que foi mudado nesse AR
+
+1 - Acrescentei musicas e sons
+2 - A camera segue o jogador com um script que faz isso
+3 - Criei as penas (particulas) que aparece quando o passaro pula

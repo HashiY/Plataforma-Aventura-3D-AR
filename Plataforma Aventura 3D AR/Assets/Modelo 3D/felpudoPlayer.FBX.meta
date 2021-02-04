@@ -1,0 +1,564 @@
+fileFormatVersion: 2
+guid: 77bfcf92318c04e3aa7cb7766fff6eb8
+ModelImporter:
+  serializedVersion: 26
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      1: 100002
+    second: FOFUCHO_ANTEBRACO_DIREITO
+  - first:
+      1: 100004
+    second: FOFUCHO_ANTEBRACO_ESQUERDO
+  - first:
+      1: 100006
+    second: FOFUCHO_BRACO_DIREITO
+  - first:
+      1: 100008
+    second: FOFUCHO_BRACO_ESQUERDO
+  - first:
+      1: 100010
+    second: FOFUCHO_CABECA
+  - first:
+      1: 100012
+    second: FOFUCHO_COXA_DIREITO
+  - first:
+      1: 100014
+    second: FOFUCHO_COXA_ESQUERDO
+  - first:
+      1: 100016
+    second: FOFUCHO_DEDO1_1_DIREITO
+  - first:
+      1: 100018
+    second: FOFUCHO_DEDO1_1_ESQUERDO
+  - first:
+      1: 100020
+    second: FOFUCHO_DEDO2_1
+  - first:
+      1: 100022
+    second: FOFUCHO_DEDO2_2
+  - first:
+      1: 100024
+    second: FOFUCHO_ESPINHA_1
+  - first:
+      1: 100026
+    second: FOFUCHO_ESPINHA_2
+  - first:
+      1: 100028
+    second: FOFUCHO_ESPINHA_3
+  - first:
+      1: 100030
+    second: FOFUCHO_MAO_DIREITO
+  - first:
+      1: 100032
+    second: FOFUCHO_MAO_ESQUERDO
+  - first:
+      1: 100034
+    second: FOFUCHO_MAXILAR
+  - first:
+      1: 100036
+    second: FOFUCHO_MESH_CORPO
+  - first:
+      1: 100038
+    second: FOFUCHO_MESH_ROUPA
+  - first:
+      1: 100040
+    second: FOFUCHO_OLHOS
+  - first:
+      1: 100042
+    second: FOFUCHO_OMBRO_DIREITO
+  - first:
+      1: 100044
+    second: FOFUCHO_OMBRO_ESQUERDO
+  - first:
+      1: 100046
+    second: FOFUCHO_PE_DIREITO
+  - first:
+      1: 100048
+    second: FOFUCHO_PE_ESQUERDO
+  - first:
+      1: 100050
+    second: FOFUCHO_PERNA_DIREITO
+  - first:
+      1: 100052
+    second: FOFUCHO_PERNA_ESQUERDO
+  - first:
+      1: 100054
+    second: FOFUCHO_PESCOCO
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      4: 400002
+    second: FOFUCHO_ANTEBRACO_DIREITO
+  - first:
+      4: 400004
+    second: FOFUCHO_ANTEBRACO_ESQUERDO
+  - first:
+      4: 400006
+    second: FOFUCHO_BRACO_DIREITO
+  - first:
+      4: 400008
+    second: FOFUCHO_BRACO_ESQUERDO
+  - first:
+      4: 400010
+    second: FOFUCHO_CABECA
+  - first:
+      4: 400012
+    second: FOFUCHO_COXA_DIREITO
+  - first:
+      4: 400014
+    second: FOFUCHO_COXA_ESQUERDO
+  - first:
+      4: 400016
+    second: FOFUCHO_DEDO1_1_DIREITO
+  - first:
+      4: 400018
+    second: FOFUCHO_DEDO1_1_ESQUERDO
+  - first:
+      4: 400020
+    second: FOFUCHO_DEDO2_1
+  - first:
+      4: 400022
+    second: FOFUCHO_DEDO2_2
+  - first:
+      4: 400024
+    second: FOFUCHO_ESPINHA_1
+  - first:
+      4: 400026
+    second: FOFUCHO_ESPINHA_2
+  - first:
+      4: 400028
+    second: FOFUCHO_ESPINHA_3
+  - first:
+      4: 400030
+    second: FOFUCHO_MAO_DIREITO
+  - first:
+      4: 400032
+    second: FOFUCHO_MAO_ESQUERDO
+  - first:
+      4: 400034
+    second: FOFUCHO_MAXILAR
+  - first:
+      4: 400036
+    second: FOFUCHO_MESH_CORPO
+  - first:
+      4: 400038
+    second: FOFUCHO_MESH_ROUPA
+  - first:
+      4: 400040
+    second: FOFUCHO_OLHOS
+  - first:
+      4: 400042
+    second: FOFUCHO_OMBRO_DIREITO
+  - first:
+      4: 400044
+    second: FOFUCHO_OMBRO_ESQUERDO
+  - first:
+      4: 400046
+    second: FOFUCHO_PE_DIREITO
+  - first:
+      4: 400048
+    second: FOFUCHO_PE_ESQUERDO
+  - first:
+      4: 400050
+    second: FOFUCHO_PERNA_DIREITO
+  - first:
+      4: 400052
+    second: FOFUCHO_PERNA_ESQUERDO
+  - first:
+      4: 400054
+    second: FOFUCHO_PESCOCO
+  - first:
+      23: 2300000
+    second: //RootNode
+  - first:
+      33: 3300000
+    second: //RootNode
+  - first:
+      43: 4300000
+    second: FOFUCHO_CTRL_PARENT
+  - first:
+      43: 4300002
+    second: FOFUCHO_MESH_CORPO
+  - first:
+      43: 4300004
+    second: FOFUCHO_MESH_ROUPA
+  - first:
+      74: 7400000
+    second: idle
+  - first:
+      74: 7400002
+    second: walk
+  - first:
+      74: 7400004
+    second: jump
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      111: 11100000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: FOFUCHO_MESH_CORPO
+  - first:
+      137: 13700002
+    second: FOFUCHO_MESH_ROUPA
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #26'
+    second: {fileID: 2100000, guid: 6ee9dfc2562f35c43a85bfbfb5e3dfac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 868593cc5d66f2141a2c6b82b30d6cef, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: idle
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 49
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: FOFUCHO_ESPINHA_1
+        weight: 1
+      - path: FOFUCHO_ESPINHA_1/FOFUCHO_COXA_DIREITO
+        weight: 1
+      - path: FOFUCHO_ESPINHA_1/FOFUCHO_COXA_DIREITO/FOFUCHO_PERNA_DIREITO
+        weight: 1
+      - path: FOFUCHO_ESPINHA_1/FOFUCHO_COXA_DIREITO/FOFUCHO_PERNA_DIREITO/FOFUCHO_PE_DIREITO
+        weight: 1
+      - path: FOFUCHO_ESPINHA_1/FOFUCHO_COXA_ESQUERDO
+        weight: 1
+      - path: FOFUCHO_ESPINHA_1/FOFUCHO_COXA_ESQUERDO/FOFUCHO_PERNA_ESQUERDO
+        weight: 1
+      - path: FOFUCHO_ESPINHA_1/FOFUCHO_COXA_ESQUERDO/FOFUCHO_PERNA_ESQUERDO/FOFUCHO_PE_ESQUERDO
+        weight: 1
+      - path: FOFUCHO_ESPINHA_1/FOFUCHO_DEDO2_1
+        weight: 1
+      - path: FOFUCHO_ESPINHA_1/FOFUCHO_DEDO2_1/FOFUCHO_DEDO2_2
+        weight: 1
+      - path: FOFUCHO_ESPINHA_1/FOFUCHO_ESPINHA_2
+        weight: 1
+      - path: FOFUCHO_ESPINHA_1/FOFUCHO_ESPINHA_2/FOFUCHO_ESPINHA_3
+        weight: 1
+      - path: FOFUCHO_ESPINHA_1/FOFUCHO_ESPINHA_2/FOFUCHO_ESPINHA_3/FOFUCHO_OMBRO_DIREITO
+        weight: 1
+      - path: FOFUCHO_ESPINHA_1/FOFUCHO_ESPINHA_2/FOFUCHO_ESPINHA_3/FOFUCHO_OMBRO_DIREITO/FOFUCHO_BRACO_DIREITO
+        weight: 1
+      - path: FOFUCHO_ESPINHA_1/FOFUCHO_ESPINHA_2/FOFUCHO_ESPINHA_3/FOFUCHO_OMBRO_DIREITO/FOFUCHO_BRACO_DIREITO/FOFUCHO_ANTEBRACO_DIREITO
+        weight: 1
+      - path: FOFUCHO_ESPINHA_1/FOFUCHO_ESPINHA_2/FOFUCHO_ESPINHA_3/FOFUCHO_OMBRO_DIREITO/FOFUCHO_BRACO_DIREITO/FOFUCHO_ANTEBRACO_DIREITO/FOFUCHO_DEDO1_1_DIREITO
+        weight: 1
+      - path: FOFUCHO_ESPINHA_1/FOFUCHO_ESPINHA_2/FOFUCHO_ESPINHA_3/FOFUCHO_OMBRO_DIREITO/FOFUCHO_BRACO_DIREITO/FOFUCHO_ANTEBRACO_DIREITO/FOFUCHO_MAO_DIREITO
+        weight: 1
+      - path: FOFUCHO_ESPINHA_1/FOFUCHO_ESPINHA_2/FOFUCHO_ESPINHA_3/FOFUCHO_OMBRO_ESQUERDO
+        weight: 1
+      - path: FOFUCHO_ESPINHA_1/FOFUCHO_ESPINHA_2/FOFUCHO_ESPINHA_3/FOFUCHO_OMBRO_ESQUERDO/FOFUCHO_BRACO_ESQUERDO
+        weight: 1
+      - path: FOFUCHO_ESPINHA_1/FOFUCHO_ESPINHA_2/FOFUCHO_ESPINHA_3/FOFUCHO_OMBRO_ESQUERDO/FOFUCHO_BRACO_ESQUERDO/FOFUCHO_ANTEBRACO_ESQUERDO
+        weight: 1
+      - path: FOFUCHO_ESPINHA_1/FOFUCHO_ESPINHA_2/FOFUCHO_ESPINHA_3/FOFUCHO_OMBRO_ESQUERDO/FOFUCHO_BRACO_ESQUERDO/FOFUCHO_ANTEBRACO_ESQUERDO/FOFUCHO_DEDO1_1_ESQUERDO
+        weight: 1
+      - path: FOFUCHO_ESPINHA_1/FOFUCHO_ESPINHA_2/FOFUCHO_ESPINHA_3/FOFUCHO_OMBRO_ESQUERDO/FOFUCHO_BRACO_ESQUERDO/FOFUCHO_ANTEBRACO_ESQUERDO/FOFUCHO_MAO_ESQUERDO
+        weight: 1
+      - path: FOFUCHO_ESPINHA_1/FOFUCHO_ESPINHA_2/FOFUCHO_ESPINHA_3/FOFUCHO_PESCOCO
+        weight: 1
+      - path: FOFUCHO_ESPINHA_1/FOFUCHO_ESPINHA_2/FOFUCHO_ESPINHA_3/FOFUCHO_PESCOCO/FOFUCHO_CABECA
+        weight: 1
+      - path: FOFUCHO_ESPINHA_1/FOFUCHO_ESPINHA_2/FOFUCHO_ESPINHA_3/FOFUCHO_PESCOCO/FOFUCHO_CABECA/FOFUCHO_MAXILAR
+        weight: 1
+      - path: FOFUCHO_ESPINHA_1/FOFUCHO_ESPINHA_2/FOFUCHO_ESPINHA_3/FOFUCHO_PESCOCO/FOFUCHO_CABECA/FOFUCHO_OLHOS
+        weight: 1
+      - path: FOFUCHO_MESH_CORPO
+        weight: 1
+      - path: FOFUCHO_MESH_ROUPA
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: walk
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 51
+      lastFrame: 80
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: FOFUCHO_ESPINHA_1
+        weight: 1
+      - path: FOFUCHO_ESPINHA_1/FOFUCHO_COXA_DIREITO
+        weight: 1
+      - path: FOFUCHO_ESPINHA_1/FOFUCHO_COXA_DIREITO/FOFUCHO_PERNA_DIREITO
+        weight: 1
+      - path: FOFUCHO_ESPINHA_1/FOFUCHO_COXA_DIREITO/FOFUCHO_PERNA_DIREITO/FOFUCHO_PE_DIREITO
+        weight: 1
+      - path: FOFUCHO_ESPINHA_1/FOFUCHO_COXA_ESQUERDO
+        weight: 1
+      - path: FOFUCHO_ESPINHA_1/FOFUCHO_COXA_ESQUERDO/FOFUCHO_PERNA_ESQUERDO
+        weight: 1
+      - path: FOFUCHO_ESPINHA_1/FOFUCHO_COXA_ESQUERDO/FOFUCHO_PERNA_ESQUERDO/FOFUCHO_PE_ESQUERDO
+        weight: 1
+      - path: FOFUCHO_ESPINHA_1/FOFUCHO_DEDO2_1
+        weight: 1
+      - path: FOFUCHO_ESPINHA_1/FOFUCHO_DEDO2_1/FOFUCHO_DEDO2_2
+        weight: 1
+      - path: FOFUCHO_ESPINHA_1/FOFUCHO_ESPINHA_2
+        weight: 1
+      - path: FOFUCHO_ESPINHA_1/FOFUCHO_ESPINHA_2/FOFUCHO_ESPINHA_3
+        weight: 1
+      - path: FOFUCHO_ESPINHA_1/FOFUCHO_ESPINHA_2/FOFUCHO_ESPINHA_3/FOFUCHO_OMBRO_DIREITO
+        weight: 1
+      - path: FOFUCHO_ESPINHA_1/FOFUCHO_ESPINHA_2/FOFUCHO_ESPINHA_3/FOFUCHO_OMBRO_DIREITO/FOFUCHO_BRACO_DIREITO
+        weight: 1
+      - path: FOFUCHO_ESPINHA_1/FOFUCHO_ESPINHA_2/FOFUCHO_ESPINHA_3/FOFUCHO_OMBRO_DIREITO/FOFUCHO_BRACO_DIREITO/FOFUCHO_ANTEBRACO_DIREITO
+        weight: 1
+      - path: FOFUCHO_ESPINHA_1/FOFUCHO_ESPINHA_2/FOFUCHO_ESPINHA_3/FOFUCHO_OMBRO_DIREITO/FOFUCHO_BRACO_DIREITO/FOFUCHO_ANTEBRACO_DIREITO/FOFUCHO_DEDO1_1_DIREITO
+        weight: 1
+      - path: FOFUCHO_ESPINHA_1/FOFUCHO_ESPINHA_2/FOFUCHO_ESPINHA_3/FOFUCHO_OMBRO_DIREITO/FOFUCHO_BRACO_DIREITO/FOFUCHO_ANTEBRACO_DIREITO/FOFUCHO_MAO_DIREITO
+        weight: 1
+      - path: FOFUCHO_ESPINHA_1/FOFUCHO_ESPINHA_2/FOFUCHO_ESPINHA_3/FOFUCHO_OMBRO_ESQUERDO
+        weight: 1
+      - path: FOFUCHO_ESPINHA_1/FOFUCHO_ESPINHA_2/FOFUCHO_ESPINHA_3/FOFUCHO_OMBRO_ESQUERDO/FOFUCHO_BRACO_ESQUERDO
+        weight: 1
+      - path: FOFUCHO_ESPINHA_1/FOFUCHO_ESPINHA_2/FOFUCHO_ESPINHA_3/FOFUCHO_OMBRO_ESQUERDO/FOFUCHO_BRACO_ESQUERDO/FOFUCHO_ANTEBRACO_ESQUERDO
+        weight: 1
+      - path: FOFUCHO_ESPINHA_1/FOFUCHO_ESPINHA_2/FOFUCHO_ESPINHA_3/FOFUCHO_OMBRO_ESQUERDO/FOFUCHO_BRACO_ESQUERDO/FOFUCHO_ANTEBRACO_ESQUERDO/FOFUCHO_DEDO1_1_ESQUERDO
+        weight: 1
+      - path: FOFUCHO_ESPINHA_1/FOFUCHO_ESPINHA_2/FOFUCHO_ESPINHA_3/FOFUCHO_OMBRO_ESQUERDO/FOFUCHO_BRACO_ESQUERDO/FOFUCHO_ANTEBRACO_ESQUERDO/FOFUCHO_MAO_ESQUERDO
+        weight: 1
+      - path: FOFUCHO_ESPINHA_1/FOFUCHO_ESPINHA_2/FOFUCHO_ESPINHA_3/FOFUCHO_PESCOCO
+        weight: 1
+      - path: FOFUCHO_ESPINHA_1/FOFUCHO_ESPINHA_2/FOFUCHO_ESPINHA_3/FOFUCHO_PESCOCO/FOFUCHO_CABECA
+        weight: 1
+      - path: FOFUCHO_ESPINHA_1/FOFUCHO_ESPINHA_2/FOFUCHO_ESPINHA_3/FOFUCHO_PESCOCO/FOFUCHO_CABECA/FOFUCHO_MAXILAR
+        weight: 1
+      - path: FOFUCHO_ESPINHA_1/FOFUCHO_ESPINHA_2/FOFUCHO_ESPINHA_3/FOFUCHO_PESCOCO/FOFUCHO_CABECA/FOFUCHO_OLHOS
+        weight: 1
+      - path: FOFUCHO_MESH_CORPO
+        weight: 1
+      - path: FOFUCHO_MESH_ROUPA
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: jump
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 81
+      lastFrame: 100
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: FOFUCHO_ESPINHA_1
+        weight: 1
+      - path: FOFUCHO_ESPINHA_1/FOFUCHO_COXA_DIREITO
+        weight: 1
+      - path: FOFUCHO_ESPINHA_1/FOFUCHO_COXA_DIREITO/FOFUCHO_PERNA_DIREITO
+        weight: 1
+      - path: FOFUCHO_ESPINHA_1/FOFUCHO_COXA_DIREITO/FOFUCHO_PERNA_DIREITO/FOFUCHO_PE_DIREITO
+        weight: 1
+      - path: FOFUCHO_ESPINHA_1/FOFUCHO_COXA_ESQUERDO
+        weight: 1
+      - path: FOFUCHO_ESPINHA_1/FOFUCHO_COXA_ESQUERDO/FOFUCHO_PERNA_ESQUERDO
+        weight: 1
+      - path: FOFUCHO_ESPINHA_1/FOFUCHO_COXA_ESQUERDO/FOFUCHO_PERNA_ESQUERDO/FOFUCHO_PE_ESQUERDO
+        weight: 1
+      - path: FOFUCHO_ESPINHA_1/FOFUCHO_DEDO2_1
+        weight: 1
+      - path: FOFUCHO_ESPINHA_1/FOFUCHO_DEDO2_1/FOFUCHO_DEDO2_2
+        weight: 1
+      - path: FOFUCHO_ESPINHA_1/FOFUCHO_ESPINHA_2
+        weight: 1
+      - path: FOFUCHO_ESPINHA_1/FOFUCHO_ESPINHA_2/FOFUCHO_ESPINHA_3
+        weight: 1
+      - path: FOFUCHO_ESPINHA_1/FOFUCHO_ESPINHA_2/FOFUCHO_ESPINHA_3/FOFUCHO_OMBRO_DIREITO
+        weight: 1
+      - path: FOFUCHO_ESPINHA_1/FOFUCHO_ESPINHA_2/FOFUCHO_ESPINHA_3/FOFUCHO_OMBRO_DIREITO/FOFUCHO_BRACO_DIREITO
+        weight: 1
+      - path: FOFUCHO_ESPINHA_1/FOFUCHO_ESPINHA_2/FOFUCHO_ESPINHA_3/FOFUCHO_OMBRO_DIREITO/FOFUCHO_BRACO_DIREITO/FOFUCHO_ANTEBRACO_DIREITO
+        weight: 1
+      - path: FOFUCHO_ESPINHA_1/FOFUCHO_ESPINHA_2/FOFUCHO_ESPINHA_3/FOFUCHO_OMBRO_DIREITO/FOFUCHO_BRACO_DIREITO/FOFUCHO_ANTEBRACO_DIREITO/FOFUCHO_DEDO1_1_DIREITO
+        weight: 1
+      - path: FOFUCHO_ESPINHA_1/FOFUCHO_ESPINHA_2/FOFUCHO_ESPINHA_3/FOFUCHO_OMBRO_DIREITO/FOFUCHO_BRACO_DIREITO/FOFUCHO_ANTEBRACO_DIREITO/FOFUCHO_MAO_DIREITO
+        weight: 1
+      - path: FOFUCHO_ESPINHA_1/FOFUCHO_ESPINHA_2/FOFUCHO_ESPINHA_3/FOFUCHO_OMBRO_ESQUERDO
+        weight: 1
+      - path: FOFUCHO_ESPINHA_1/FOFUCHO_ESPINHA_2/FOFUCHO_ESPINHA_3/FOFUCHO_OMBRO_ESQUERDO/FOFUCHO_BRACO_ESQUERDO
+        weight: 1
+      - path: FOFUCHO_ESPINHA_1/FOFUCHO_ESPINHA_2/FOFUCHO_ESPINHA_3/FOFUCHO_OMBRO_ESQUERDO/FOFUCHO_BRACO_ESQUERDO/FOFUCHO_ANTEBRACO_ESQUERDO
+        weight: 1
+      - path: FOFUCHO_ESPINHA_1/FOFUCHO_ESPINHA_2/FOFUCHO_ESPINHA_3/FOFUCHO_OMBRO_ESQUERDO/FOFUCHO_BRACO_ESQUERDO/FOFUCHO_ANTEBRACO_ESQUERDO/FOFUCHO_DEDO1_1_ESQUERDO
+        weight: 1
+      - path: FOFUCHO_ESPINHA_1/FOFUCHO_ESPINHA_2/FOFUCHO_ESPINHA_3/FOFUCHO_OMBRO_ESQUERDO/FOFUCHO_BRACO_ESQUERDO/FOFUCHO_ANTEBRACO_ESQUERDO/FOFUCHO_MAO_ESQUERDO
+        weight: 1
+      - path: FOFUCHO_ESPINHA_1/FOFUCHO_ESPINHA_2/FOFUCHO_ESPINHA_3/FOFUCHO_PESCOCO
+        weight: 1
+      - path: FOFUCHO_ESPINHA_1/FOFUCHO_ESPINHA_2/FOFUCHO_ESPINHA_3/FOFUCHO_PESCOCO/FOFUCHO_CABECA
+        weight: 1
+      - path: FOFUCHO_ESPINHA_1/FOFUCHO_ESPINHA_2/FOFUCHO_ESPINHA_3/FOFUCHO_PESCOCO/FOFUCHO_CABECA/FOFUCHO_MAXILAR
+        weight: 1
+      - path: FOFUCHO_ESPINHA_1/FOFUCHO_ESPINHA_2/FOFUCHO_ESPINHA_3/FOFUCHO_PESCOCO/FOFUCHO_CABECA/FOFUCHO_OLHOS
+        weight: 1
+      - path: FOFUCHO_MESH_CORPO
+        weight: 1
+      - path: FOFUCHO_MESH_ROUPA
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
