@@ -17,4 +17,4 @@ Se a camera detectar a imagem configurada, surge em cima da imagem o jogo.
 
 # IMAGE
 
-felpudoArCardX_scaled.jpg
+![alt text](https://github.com/HashiY/Plataforma-Aventura-3D-AR/blob/main/felpudoArCardX_scaled.jpg)
