@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Felpudo3DAdventure.unity
+    guid: 5af128196c2e47a41b52db3073e72170
   m_configObjects: {}
